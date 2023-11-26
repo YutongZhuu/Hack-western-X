@@ -34,3 +34,6 @@ We're proud to have developed an intelligent assistant focused on digital health
 
 Our next step is to expand Wellness Wally's features by including more health-monitoring capabilities. We aim to enhance its AI capabilities to provide more personalized health recommendations and additional tools for a healthier digital workspace.
 
+##Try It
+https://hack-western-x.vercel.app/
+
